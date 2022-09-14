@@ -1,11 +1,9 @@
+carrie@ubuntu:/debugging$ cat main.h
 #ifndef MAIN_H
 #define MAIN_H
 
 #include <stdio.h>
 
 void positive_or_negative(int i);
-int largest_number(int, int, int);
-voit prnt_remaining_days(int, int, int);
-int convert_day(int, in);
 
 #endif /* MAIN_H */
