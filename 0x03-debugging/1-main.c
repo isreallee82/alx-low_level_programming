@@ -12,7 +12,7 @@ int main(void)
 	printf("Infinite loop incoming :(\n");	
 	i = 0;
 /**
-*  - removed an infinite loop
+*  main: removed an infinite loop
 *  return: 24 1-main.c
 *	while (i < 10)
 *	{
